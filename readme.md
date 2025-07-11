@@ -1,0 +1,1 @@
+this repo contains the roboflow data of sign langauge detection
